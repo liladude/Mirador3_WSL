@@ -1,4 +1,4 @@
-## List on steps
+## List of steps (not working right now... just a reminder for me)
 1. Create new WSL2 Debian from scratch
 2. Update
 
